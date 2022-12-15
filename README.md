@@ -16,4 +16,4 @@ Fire up Postman and paste in the "OMBb API" URL you received in your email (high
 
 ![Alt text](https://www.freecodecamp.org/news/content/images/size/w1600/2020/11/Screenshot-2020-11-10-at-07.53.58.png)
 
-Mission success! Well, part of the mission is a success – we're only getting started here after all. But this means our URL from the email is working fine and our React App will be able to retrieve movies.
+This means our URL from the email is working fine and our React App will be able to retrieve movies.
